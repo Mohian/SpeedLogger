@@ -1,4 +1,4 @@
-speedtest-cli
+speedtest
 pandas
 openpyxl
 schedule
